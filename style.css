@@ -1,0 +1,50 @@
+body {
+    background-color: #191919;
+    color: white;
+    font-family: 'Fira Code', monospace;
+}
+
+
+.home_intro {
+    text-align: center;
+    padding: 50px 30px 10px 30px;
+}
+
+.home_intro a {
+    position: absolute;
+    top: 28px;
+    right: 28px;
+    font-size: 21px;
+}
+
+.home_intro a:link, a:visited {
+    color: #7878ff;
+}
+
+.home_intro hr {
+    margin: 35px 0 0 0;
+}
+
+.home_intro p {
+    color: #aaa;
+}
+
+.home_description {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-weight: bold;
+}
+
+.home_description a {
+    color: #7878ff;
+    text-decoration: none;
+}
+
+.home_description li {
+    margin-bottom: 5px;
+}
+
+.home_download i {
+    padding: 0 10px 0 20px;
+}
